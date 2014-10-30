@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	background-color:#02bed6;
+	}
+
+#header .logo {
+	margin-top:0.3em;
+	}
+
+#header nav {
+	text-align:right;
+	padding-top: 2em;
+	}
+
+#header nav ul {
+	margin-bottom:0;
+}
+
+#header nav ul li {
+	display:inline-block;
+	margin-top:1em;
+	}
+	
+#header nav ul li a {
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	padding:0.75em 2em;	
+	}
+
+#header nav ul li a.btn {
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8 px; /* border radius */
+	border:2px solid #fff;
+	}
+#header nav ul li a.btn:hover {
+	background:#fff;
+	color:#009be8;
+	}
+#header .headertext {
+	margin-top: 10em;
+	}
+
+#header h1 {
+	color:#fff;
+	font-weight:300;
+	font-size:4.5em;
+	line-height: 1;
+	text-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+#hero {
+	background-color:rgba(0,155,232,.12);
+	padding:4em 0;
+	}
+	
+#meetJottly {
+	
+	margin-top:4em;
+	}
+
+#meetJottly input {
+	width:100%;
+}
+#testimonialsection {
+	background-color:rgba(195,216,47,.29);
+	padding:4em 0;
+	}
+
+#testimonialsHeading {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom:50px;
+	}
+#testimonialWords {
+	text-align:center;
+	margin-top:3em;
+	margin-bottom:1em;
+	}
+#testimonials h5{
+	padding-bottom: 20px;
+	
+	}
+
+#mrJottly {
+	padding:4em 0;
+}
+#mrJottly h2 h4 {
+	text-align:center;
+	}
+#offer {
+	text-align:center;
+	margin-top:2em;
+	padding:4em 0;
+	}
+	
+.email {
+	float:right;
+	}
+#footer {
+	background-color:#02bed6;
+	}
+	
+#footer nav {
+	text-align:center;
+	}
+	
+#footer ul li {
+	margin-top:2em;
+	text-align:center;
+	display:inline-block;
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	padding:0.75em 0.75em;	
+	}
+
+
